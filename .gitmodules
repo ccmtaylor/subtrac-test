@@ -1,3 +1,0 @@
-[submodule "cookbooks/apache2"]
-	path = cookbooks/apache2
-	url = git@github.com:sous-chefs/apache2
